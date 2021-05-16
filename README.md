@@ -4,7 +4,7 @@
 
 #Server Configuration setup:
 #Configurations:
-JAVA - 8(version)
+JAVA - 1.5
 MYSQL - 5(version)
 MONGODB -4.0.12(version)
 
